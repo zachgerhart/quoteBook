@@ -1,0 +1,23 @@
+p{
+  background-color: rgb(246, 255, 251);
+  text-align: center;
+  border-style: solid;
+  font-weight: bold;
+  box-shadow: 10px 10px 5px #888888;
+  border-radius: 10px;
+  padding: 30px;
+  font-size: 29px;
+  border-width: 2px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 10px;
+  background: #141617;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
